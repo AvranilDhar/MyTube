@@ -1,1 +1,2 @@
-console.log("Hello");
+import connectDB from "./db/index.js";
+connectDB();
